@@ -1,0 +1,6 @@
+Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nekr/6/6.1/my_robot/robot_bringup -DCMAKE_INSTALL_PREFIX=/home/nekr/6/6.1/my_robot/install/robot_bringup
+Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nekr/6/6.1/my_robot/robot_bringup -DCMAKE_INSTALL_PREFIX=/home/nekr/6/6.1/my_robot/install/robot_bringup
+Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nekr/6/6.1/my_robot/build/robot_bringup -- -j16 -l16
+Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nekr/6/6.1/my_robot/build/robot_bringup -- -j16 -l16
+Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nekr/6/6.1/my_robot/build/robot_bringup
+Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nekr/6/6.1/my_robot/build/robot_bringup

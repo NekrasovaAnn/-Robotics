@@ -1,0 +1,39 @@
+[0.618s] Invoking command in '/home/nekr/ros2_ws/src/circle_movement': PYTHONPATH=/home/nekr/ros2_ws/src/circle_movement/build/circle_movement/prefix_override:/home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/circle_movement build --build-base /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build install --record /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/install.log --single-version-externally-managed
+[0.825s] running egg_info
+[0.826s] creating build/circle_movement/circle_movement.egg-info
+[0.826s] writing build/circle_movement/circle_movement.egg-info/PKG-INFO
+[0.827s] writing dependency_links to build/circle_movement/circle_movement.egg-info/dependency_links.txt
+[0.827s] writing entry points to build/circle_movement/circle_movement.egg-info/entry_points.txt
+[0.827s] writing requirements to build/circle_movement/circle_movement.egg-info/requires.txt
+[0.827s] writing top-level names to build/circle_movement/circle_movement.egg-info/top_level.txt
+[0.827s] writing manifest file 'build/circle_movement/circle_movement.egg-info/SOURCES.txt'
+[0.829s] reading manifest file 'build/circle_movement/circle_movement.egg-info/SOURCES.txt'
+[0.829s] writing manifest file 'build/circle_movement/circle_movement.egg-info/SOURCES.txt'
+[0.830s] running build
+[0.830s] running build_py
+[0.831s] creating /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build
+[0.831s] creating /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib
+[0.831s] creating /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib/circle_movement
+[0.831s] copying circle_movement/__init__.py -> /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib/circle_movement
+[0.831s] copying circle_movement/circle_movement.py -> /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib/circle_movement
+[0.832s] running install
+[0.832s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.832s]   warnings.warn(
+[0.832s] running install_lib
+[0.832s] creating /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement
+[0.833s] copying /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib/circle_movement/__init__.py -> /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement
+[0.833s] copying /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build/lib/circle_movement/circle_movement.py -> /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement
+[0.833s] byte-compiling /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement/__init__.py to __init__.cpython-310.pyc
+[0.833s] byte-compiling /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement/circle_movement.py to circle_movement.cpython-310.pyc
+[0.834s] running install_data
+[0.834s] creating /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/share/ament_index
+[0.835s] creating /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/share/ament_index/resource_index
+[0.835s] creating /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/share/ament_index/resource_index/packages
+[0.835s] copying resource/circle_movement -> /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/share/ament_index/resource_index/packages
+[0.835s] copying package.xml -> /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/share/circle_movement
+[0.835s] running install_egg_info
+[0.837s] Copying build/circle_movement/circle_movement.egg-info to /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages/circle_movement-0.0.0-py3.10.egg-info
+[0.838s] running install_scripts
+[0.859s] Installing circle script to /home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/circle_movement
+[0.859s] writing list of installed files to '/home/nekr/ros2_ws/src/circle_movement/build/circle_movement/install.log'
+[0.884s] Invoked command in '/home/nekr/ros2_ws/src/circle_movement' returned '0': PYTHONPATH=/home/nekr/ros2_ws/src/circle_movement/build/circle_movement/prefix_override:/home/nekr/ros2_ws/src/circle_movement/install/circle_movement/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/circle_movement build --build-base /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/build install --record /home/nekr/ros2_ws/src/circle_movement/build/circle_movement/install.log --single-version-externally-managed

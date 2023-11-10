@@ -1,0 +1,3 @@
+[console_scripts]
+circle = circle_movement.circle_movement:main
+

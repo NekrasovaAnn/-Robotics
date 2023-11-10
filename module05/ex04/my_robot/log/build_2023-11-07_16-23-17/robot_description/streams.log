@@ -1,0 +1,46 @@
+[0.021s] Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nekr/6/6.1/my_robot/robot_description -DCMAKE_INSTALL_PREFIX=/home/nekr/6/6.1/my_robot/install/robot_description
+[0.238s] -- The C compiler identification is GNU 11.4.0
+[0.938s] -- The CXX compiler identification is GNU 11.4.0
+[1.435s] -- Detecting C compiler ABI info
+[1.580s] -- Detecting C compiler ABI info - done
+[1.589s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.589s] -- Detecting C compile features
+[1.590s] -- Detecting C compile features - done
+[1.595s] -- Detecting CXX compiler ABI info
+[1.818s] -- Detecting CXX compiler ABI info - done
+[1.828s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.828s] -- Detecting CXX compile features
+[1.829s] -- Detecting CXX compile features - done
+[1.832s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.026s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.137s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.226s] -- Configuring done
+[2.229s] -- Generating done
+[2.230s] -- Build files have been written to: /home/nekr/6/6.1/my_robot/build/robot_description
+[2.236s] Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/nekr/6/6.1/my_robot/robot_description -DCMAKE_INSTALL_PREFIX=/home/nekr/6/6.1/my_robot/install/robot_description
+[2.238s] Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nekr/6/6.1/my_robot/build/robot_description -- -j16 -l16
+[2.270s] Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/nekr/6/6.1/my_robot/build/robot_description -- -j16 -l16
+[2.293s] Invoking command in '/home/nekr/6/6.1/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nekr/6/6.1/my_robot/build/robot_description
+[2.298s] -- Install configuration: ""
+[2.299s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf
+[2.299s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf/depth.urdf.xacro
+[2.299s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf/lidar.urdf.xacro
+[2.300s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf/gazebo.urdf.xacro
+[2.300s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf/d455.stl
+[2.303s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description//urdf/robot.urdf.xacro
+[2.304s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[2.304s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[2.304s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[2.305s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[2.305s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/environment/path.sh
+[2.306s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/environment/path.dsv
+[2.306s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/local_setup.bash
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/local_setup.sh
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/local_setup.zsh
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/local_setup.dsv
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/package.dsv
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[2.307s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[2.308s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[2.308s] -- Installing: /home/nekr/6/6.1/my_robot/install/robot_description/share/robot_description/package.xml
+[2.327s] Invoked command in '/home/nekr/6/6.1/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/nekr/6/6.1/my_robot/build/robot_description
