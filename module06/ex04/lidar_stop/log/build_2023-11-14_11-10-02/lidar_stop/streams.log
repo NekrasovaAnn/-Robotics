@@ -1,0 +1,23 @@
+[0.591s] Invoking command in '/home/nekr/ros2_ws/src/lidar_stop': PYTHONPATH=/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/prefix_override:/home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_stop build --build-base /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build install --record /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log --single-version-externally-managed
+[0.788s] running egg_info
+[0.788s] writing build/lidar_stop/lidar_stop.egg-info/PKG-INFO
+[0.789s] writing dependency_links to build/lidar_stop/lidar_stop.egg-info/dependency_links.txt
+[0.789s] writing entry points to build/lidar_stop/lidar_stop.egg-info/entry_points.txt
+[0.790s] writing requirements to build/lidar_stop/lidar_stop.egg-info/requires.txt
+[0.790s] writing top-level names to build/lidar_stop/lidar_stop.egg-info/top_level.txt
+[0.791s] reading manifest file 'build/lidar_stop/lidar_stop.egg-info/SOURCES.txt'
+[0.792s] writing manifest file 'build/lidar_stop/lidar_stop.egg-info/SOURCES.txt'
+[0.793s] running build
+[0.793s] running build_py
+[0.793s] running install
+[0.793s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.793s]   warnings.warn(
+[0.794s] running install_lib
+[0.795s] running install_data
+[0.796s] running install_egg_info
+[0.798s] removing '/home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop-0.0.0-py3.10.egg-info' (and everything under it)
+[0.798s] Copying build/lidar_stop/lidar_stop.egg-info to /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop-0.0.0-py3.10.egg-info
+[0.800s] running install_scripts
+[0.818s] Installing lidar_stop script to /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/lidar_stop
+[0.818s] writing list of installed files to '/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log'
+[0.839s] Invoked command in '/home/nekr/ros2_ws/src/lidar_stop' returned '0': PYTHONPATH=/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/prefix_override:/home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_stop build --build-base /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build install --record /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log --single-version-externally-managed

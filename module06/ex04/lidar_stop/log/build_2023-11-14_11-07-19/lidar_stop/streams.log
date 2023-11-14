@@ -1,0 +1,39 @@
+[0.724s] Invoking command in '/home/nekr/ros2_ws/src/lidar_stop': PYTHONPATH=/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/prefix_override:/home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_stop build --build-base /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build install --record /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log --single-version-externally-managed
+[0.949s] running egg_info
+[0.950s] creating build/lidar_stop/lidar_stop.egg-info
+[0.950s] writing build/lidar_stop/lidar_stop.egg-info/PKG-INFO
+[0.951s] writing dependency_links to build/lidar_stop/lidar_stop.egg-info/dependency_links.txt
+[0.951s] writing entry points to build/lidar_stop/lidar_stop.egg-info/entry_points.txt
+[0.951s] writing requirements to build/lidar_stop/lidar_stop.egg-info/requires.txt
+[0.952s] writing top-level names to build/lidar_stop/lidar_stop.egg-info/top_level.txt
+[0.952s] writing manifest file 'build/lidar_stop/lidar_stop.egg-info/SOURCES.txt'
+[0.953s] reading manifest file 'build/lidar_stop/lidar_stop.egg-info/SOURCES.txt'
+[0.954s] writing manifest file 'build/lidar_stop/lidar_stop.egg-info/SOURCES.txt'
+[0.954s] running build
+[0.955s] running build_py
+[0.955s] creating /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build
+[0.956s] creating /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib
+[0.956s] creating /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib/lidar_stop
+[0.956s] copying lidar_stop/__init__.py -> /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib/lidar_stop
+[0.956s] copying lidar_stop/lidar_stop.py -> /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib/lidar_stop
+[0.956s] running install
+[0.981s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.981s]   warnings.warn(
+[0.981s] running install_lib
+[0.982s] creating /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop
+[0.983s] copying /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib/lidar_stop/__init__.py -> /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop
+[0.983s] copying /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build/lib/lidar_stop/lidar_stop.py -> /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop
+[0.983s] byte-compiling /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop/__init__.py to __init__.cpython-310.pyc
+[0.984s] byte-compiling /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop/lidar_stop.py to lidar_stop.cpython-310.pyc
+[0.984s] running install_data
+[0.985s] creating /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/share/ament_index
+[0.985s] creating /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/share/ament_index/resource_index
+[0.985s] creating /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/share/ament_index/resource_index/packages
+[0.986s] copying resource/lidar_stop -> /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/share/ament_index/resource_index/packages
+[0.986s] copying package.xml -> /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/share/lidar_stop
+[0.986s] running install_egg_info
+[0.987s] Copying build/lidar_stop/lidar_stop.egg-info to /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages/lidar_stop-0.0.0-py3.10.egg-info
+[0.988s] running install_scripts
+[1.009s] Installing lidar_stop script to /home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/lidar_stop
+[1.010s] writing list of installed files to '/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log'
+[1.035s] Invoked command in '/home/nekr/ros2_ws/src/lidar_stop' returned '0': PYTHONPATH=/home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/prefix_override:/home/nekr/ros2_ws/src/lidar_stop/install/lidar_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar_stop build --build-base /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/build install --record /home/nekr/ros2_ws/src/lidar_stop/build/lidar_stop/install.log --single-version-externally-managed

@@ -1,0 +1,39 @@
+[0.610s] Invoking command in '/home/nekr/ros2_ws/src/depth_stop': PYTHONPATH=/home/nekr/ros2_ws/src/depth_stop/build/depth_stop/prefix_override:/home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/depth_stop build --build-base /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build install --record /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/install.log --single-version-externally-managed
+[0.804s] running egg_info
+[0.805s] creating build/depth_stop/depth_stop.egg-info
+[0.805s] writing build/depth_stop/depth_stop.egg-info/PKG-INFO
+[0.805s] writing dependency_links to build/depth_stop/depth_stop.egg-info/dependency_links.txt
+[0.806s] writing entry points to build/depth_stop/depth_stop.egg-info/entry_points.txt
+[0.806s] writing requirements to build/depth_stop/depth_stop.egg-info/requires.txt
+[0.806s] writing top-level names to build/depth_stop/depth_stop.egg-info/top_level.txt
+[0.806s] writing manifest file 'build/depth_stop/depth_stop.egg-info/SOURCES.txt'
+[0.807s] reading manifest file 'build/depth_stop/depth_stop.egg-info/SOURCES.txt'
+[0.808s] writing manifest file 'build/depth_stop/depth_stop.egg-info/SOURCES.txt'
+[0.809s] running build
+[0.809s] running build_py
+[0.809s] creating /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build
+[0.809s] creating /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib
+[0.810s] creating /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib/depth_stop
+[0.810s] copying depth_stop/__init__.py -> /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib/depth_stop
+[0.810s] copying depth_stop/depth_stop.py -> /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib/depth_stop
+[0.810s] running install
+[0.810s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.810s]   warnings.warn(
+[0.810s] running install_lib
+[0.811s] creating /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop
+[0.811s] copying /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib/depth_stop/__init__.py -> /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop
+[0.811s] copying /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build/lib/depth_stop/depth_stop.py -> /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop
+[0.811s] byte-compiling /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop/__init__.py to __init__.cpython-310.pyc
+[0.812s] byte-compiling /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop/depth_stop.py to depth_stop.cpython-310.pyc
+[0.813s] running install_data
+[0.813s] creating /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/share/ament_index
+[0.813s] creating /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/share/ament_index/resource_index
+[0.814s] creating /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/share/ament_index/resource_index/packages
+[0.814s] copying resource/depth_stop -> /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/share/ament_index/resource_index/packages
+[0.814s] copying package.xml -> /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/share/depth_stop
+[0.814s] running install_egg_info
+[0.815s] Copying build/depth_stop/depth_stop.egg-info to /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages/depth_stop-0.0.0-py3.10.egg-info
+[0.816s] running install_scripts
+[0.837s] Installing depth_stop script to /home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/depth_stop
+[0.838s] writing list of installed files to '/home/nekr/ros2_ws/src/depth_stop/build/depth_stop/install.log'
+[0.869s] Invoked command in '/home/nekr/ros2_ws/src/depth_stop' returned '0': PYTHONPATH=/home/nekr/ros2_ws/src/depth_stop/build/depth_stop/prefix_override:/home/nekr/ros2_ws/src/depth_stop/install/depth_stop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/depth_stop build --build-base /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/build install --record /home/nekr/ros2_ws/src/depth_stop/build/depth_stop/install.log --single-version-externally-managed
