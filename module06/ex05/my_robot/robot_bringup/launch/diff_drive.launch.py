@@ -40,6 +40,11 @@ def generate_launch_description():
     #     robot_desc = infp.read()
 
     urdf_path  =  os.path.join(pkg_project_description, 'urdf', 'robot.urdf.xacro')
+    # urdf_path_world  =  os.path.join(pkg_project_description, 'worlds', 'gpu_lidar.sdf')
+    # urdf_file = open(urdf_path, "r")
+    # robot_desc = urdf_file.read()
+    # urdf_file.close()
+
     robot_desc = ParameterValue(Command(['xacro ', urdf_path]), value_type=str)
 
     # Setup to launch the simulator and Gazebo world
@@ -57,7 +62,7 @@ def generate_launch_description():
                    '-topic', 'robot_description',
                    '-x', '0.0',
                    '-y', '0.0',
-                   '-z', '1.0',
+                   '-z', '0.5',
                 ],
         output='screen',
     )
@@ -76,7 +81,7 @@ def generate_launch_description():
         parameters=[
             {'robot_description': robot_desc},
             {'frame_prefix': "robot/"},
-             {'use_sim_time': True},
+            {'use_sim_time': True},
         ]
     )
 

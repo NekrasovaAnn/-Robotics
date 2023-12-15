@@ -3,7 +3,7 @@
 
     <xacro:include filename="$(find robot_description)/urdf/gazebo.urdf.xacro" />
     <xacro:include filename="$(find robot_description)/urdf/lidar.urdf.xacro" />
-    <!-- <xacro:include filename="$(find robot_description)/urdf/depth.urdf.xacro" /> -->
+    <xacro:include filename="$(find robot_description)/urdf/depth.urdf.xacro" />
 
     <xacro:property name="chassis_length" value="0.335"/>
     <xacro:property name="chassis_width" value="0.265"/>
@@ -186,7 +186,7 @@
 
 
      <!-- IMU SENSOR -->
-    <!-- <joint name="imu_sensor_joint" type="fixed">
+    <joint name="imu_sensor_joint" type="fixed">
         <origin xyz="0.11 0.0 0.07" rpy="0 0 0"/>
         <parent link="base_link"/>
         <child link="imu_sensor_link"/>
@@ -224,7 +224,7 @@
             <topic>imu</topic>
             <pose>0 0 0 0 0 0</pose>
         </sensor>
-    </gazebo> -->
+    </gazebo>
     <!-- END IMU SENSOR -->
 
 </robot>
